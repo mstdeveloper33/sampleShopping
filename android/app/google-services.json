@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "890972242336",
+    "project_id": "pushnotitutorial-520e2",
+    "storage_bucket": "pushnotitutorial-520e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890972242336:android:c154d53d8a983ecbf764c5",
+        "android_client_info": {
+          "package_name": "com.example.sampleshopping"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNZzRnD8WGY8nGr91h1uR8v3EZcaquf6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
